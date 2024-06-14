@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+* linguist-language=Java
+node_modules/* linguist-vendored
